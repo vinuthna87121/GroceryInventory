@@ -4,16 +4,6 @@ This is a Spring Boot REST API for managing a grocery inventory system. It allow
 
 ---
 
-## 📚 Table of Contents
-
-- [Features](#features)
-- [API Endpoints](#api-endpoints)
-- [Setup Instructions](#setup-instructions)
-- [Usage Examples](#usage-examples)
-- [Technologies Used](#technologies-used)
-
----
-
 ## ✨ Features
 
 - Add, update, delete grocery items
